@@ -7,6 +7,10 @@ authors = ["Rockstar"]
 [tool.poetry.dependencies]
 python = "^3.8"
 openfabric-pysdk = "^0.3.0"
+llama-cpp-python = "^0.2.20"
+sqlitedict = "^2.1.0"
+numpy = "^1.24.0"
+pillow = "^10.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
